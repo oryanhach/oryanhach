@@ -40,4 +40,6 @@ I'm a full stack developer with a background in manual QA with experience in a c
 </a>
 </p>
 
+<img src="https://www.codewars.com/users/theoryanory87/badges/micro">
+
 
