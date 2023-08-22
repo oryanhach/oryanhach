@@ -38,7 +38,7 @@ I'm a full stack developer with a background in manual QA with experience in a c
 <a href="https://linkedin.com/in/oryanhachamoff" target="blank">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Linkedin" height="40" width="40" />
 </a>&nbsp;
-<a href="https://linkedin.com/in/oryanhachamoff" target="blank">
+<a href="https://www.codewars.com/users/theoryanory87" target="blank">
 <img src="https://res.cloudinary.com/djm30uwim/image/upload/v1692698649/svgexport-1_juysmr.svg" alt="oryanhachamoff" height="40" width="40" />
 </p>
 <br>
