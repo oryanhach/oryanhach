@@ -42,7 +42,6 @@ I'm a full stack developer with a background in manual QA with experience in a c
 <img src="https://res.cloudinary.com/djm30uwim/image/upload/v1692698649/svgexport-1_juysmr.svg" alt="oryanhachamoff" height="40" width="40" />
 </p>
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oryanhach&show_icons=true&locale=en&theme=gotham" alt="oryanhach" /></p>
-
+<h3 align="left">Stats</h3>
+<a href="http://www.github.com/oryanhach"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oryanhach&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
