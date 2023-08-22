@@ -32,17 +32,13 @@ I'm a full stack developer with a background in manual QA with experience in a c
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="Github" width="40" height="40" /> 
 </picture>
 </a>&nbsp;
 <a href="https://linkedin.com/in/oryanhachamoff" target="blank">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="oryanhachamoff" height="40" width="40" />
-</a>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Linkedin" height="40" width="40" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/oryanhachamoff" target="blank">
+<img src="https://res.cloudinary.com/djm30uwim/image/upload/v1692698649/svgexport-1_juysmr.svg" alt="oryanhachamoff" height="40" width="40" />
 </p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/oryanhach"><img src="https://github-readme-stats.vercel.app/api?username=oryanhach&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oryanhach's GitHub stats" /></a>
-
-<a href="http://www.github.com/oryanhach"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oryanhach&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
