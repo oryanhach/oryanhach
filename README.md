@@ -43,6 +43,6 @@ I'm a full stack developer with a background in manual QA with experience in a c
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oryanhach&show_icons=true&locale=en&theme=transparent" alt="oryanhach" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oryanhach&show_icons=true&locale=en&theme=gotham" alt="oryanhach" /></p>
 
 
