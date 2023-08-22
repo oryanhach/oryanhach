@@ -43,4 +43,4 @@ I'm a full stack developer with a background in manual QA with experience in a c
 </p>
 <br>
 <h3 align="left">Stats</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oryanhach&theme=blueberry-duo&hide_border=true" alt="oryanhach" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oryanhach&theme=gotham&hide_border=true" alt="oryanhach" /></p>
