@@ -42,3 +42,7 @@ I'm a full stack developer with a background in manual QA with experience in a c
 <img src="https://res.cloudinary.com/djm30uwim/image/upload/v1692698649/svgexport-1_juysmr.svg" alt="oryanhachamoff" height="40" width="40" />
 </p>
 
+<h3 align="left">Stars</h3>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oryanhach&show_icons=true&locale=en&theme=react" alt="oryanhach" /></p>
+
+
