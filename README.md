@@ -1,10 +1,11 @@
-Hi 👋 My name is Oryan Hachamoff
+<img src="https://res.cloudinary.com/djm30uwim/image/upload/v1692807365/github-header-image_gqjh1i.png">
+
+<br>
+
+Welcome to My Profile!
 ================================
 
-Full Stack Developer
---------------------
-
-I'm a full stack developer with a background in manual QA with experience in a cyber startup. Having recently completed a full stack bootcamp at Coding Academy School, I'm passionate about UI design and frontend development. Actively seeking new opportunities, I'm eager to bring my unique blend of QA and development skills to a dynamic team. Feel free to explore my projects and reach out!
+I'm Oryan Hachamoff, a developer with a background in manual QA and experience in a cyber startup. Having recently completed a full stack bootcamp at Coding Academy School, I'm passionate about UI design and frontend development. Actively seeking new opportunities, I'm eager to bring my unique blend of QA and development skills to a dynamic team. Feel free to explore my projects and reach out!
 
 * 🌍  I'm based in Modiin, Israel
 * 🧠  I'm learning React
