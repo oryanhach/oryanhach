@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=32&duration=3000&pause=2750&color=84D3FF&width=450&lines=A+Full-stack+developer)](https://git.io/typing-svg)
 ================================
 
-
+<br>
 
 I'm Oryan Hachamoff, a developer with a background in manual QA and experience in a cyber startup. Having recently completed a full stack bootcamp at Coding Academy School, I'm passionate about UI design and frontend development. Actively seeking new opportunities, I'm eager to bring my unique blend of QA and development skills to a dynamic team. Feel free to explore my projects and reach out!
 
