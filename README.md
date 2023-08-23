@@ -1,9 +1,11 @@
-<img src="https://res.cloudinary.com/djm30uwim/image/upload/v1692807365/github-header-image_gqjh1i.png">
+<img src="https://res.cloudinary.com/djm30uwim/image/upload/v1692813679/github-header-image_lobtet.png">
 
 <br>
 
-Welcome to My Profile!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=32&duration=3000&pause=2750&color=9C5BAD&width=435&lines=A+Full-stack+developer)](https://git.io/typing-svg)
 ================================
+
+
 
 I'm Oryan Hachamoff, a developer with a background in manual QA and experience in a cyber startup. Having recently completed a full stack bootcamp at Coding Academy School, I'm passionate about UI design and frontend development. Actively seeking new opportunities, I'm eager to bring my unique blend of QA and development skills to a dynamic team. Feel free to explore my projects and reach out!
 
