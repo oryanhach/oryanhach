@@ -13,7 +13,6 @@ Hello, I'm Oryan Hachamoff, a Full-stack Developer based in Modiin, Israel.
 - 🎓 **Education:** Full-stack bootcamp at Coding Academy Israel
 - 👩‍💻 **Background:** Manual QA, experience in a cyber startup
 - 🖌 **Interests:** UI Design and frontend development
-- 🎯 **Status:** Actively seeking new opportunities
 - 🌱 **Learning:** React
 
 ### Skills
