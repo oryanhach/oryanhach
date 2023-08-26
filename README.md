@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/djm30uwim/image/upload/v1692813679/github-header-image_lobtet.png">
+![GitHub Header](https://res.cloudinary.com/djm30uwim/image/upload/v1692813679/github-header-image_lobtet.png)
 
 <br>
 
@@ -8,11 +8,10 @@
 <br>
 
 ### About Me
-- 📌 **Name:** Oryan Hachamoff
-- 🛠 **Role:** Full-stack developer
+Hello, I'm Oryan Hachamoff, a Full-stack Developer based in Modiin, Israel.
+
 - 🎓 **Education:** Full-stack bootcamp at Coding Academy Israel
 - 👩‍💻 **Background:** Manual QA, experience in a cyber startup
-- 🌐 **Location:** Modiin, Israel
 - 🖌 **Interests:** UI Design and frontend development
 - 🎯 **Status:** Actively seeking new opportunities
 - 🌱 **Learning:** React
