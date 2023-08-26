@@ -4,7 +4,7 @@
 <br>
 
 ### About Me
-Hello, I'm Oryan Hachamoff, a Developer based in Modiin, Israel.
+I'm Oryan Hachamoff, a Developer based in Modiin, Israel.
 
 - 🎓 **Education:** Full-stack bootcamp at Coding Academy Israel
 - 👩‍💻 **Background:** Manual QA, experience in a cyber startup
