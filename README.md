@@ -1,8 +1,4 @@
-![GitHub Header](https://res.cloudinary.com/djm30uwim/image/upload/v1692813679/github-header-image_lobtet.png)
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=32&duration=3000&pause=2750&color=84D3FF&width=450&lines=A+Full-stack+developer)](https://git.io/typing-svg)
+![GitHub Header](https://res.cloudinary.com/djm30uwim/image/upload/v1693038401/github-header-image_2_qeu3mk.png)
 ================================
 
 <br>
