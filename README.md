@@ -6,10 +6,12 @@
 ### About Me
 I'm Oryan Hachamoff, a Developer based in Modiin, Israel.
 
-- 🎓 **Education:** Full-stack bootcamp at Coding Academy Israel
-- 👩‍💻 **Background:** Manual QA, experience in a cyber startup
-- 🖌 **Interests:** UI Design and Frontend development
-- 🌱 **Learning:** React
+- 🎓 Graduated from Coding Academy Israel's full-stack bootcamp.
+    
+- 🖌 Passionate about UI design and frontend development.
+  
+- 🌱 Currently learning React.
+  
 
 ### Skills
 <p align="left">
