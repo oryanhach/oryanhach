@@ -47,4 +47,3 @@ I'm Oryan Hachamoff, a Developer based in Modiin, Israel.
 </p>
 <br>
 <h3 align="left">Stats</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oryanhach&theme=blueberry-duo&hide_border=true" alt="oryanhach" /></p>
