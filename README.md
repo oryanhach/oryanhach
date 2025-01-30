@@ -10,7 +10,6 @@ I'm Oryan Hachamoff, a Developer based in Modiin, Israel.
     
 - 🖌 Passionate about UI design and frontend development.
   
-- 🌱 Currently relearning Full-Stack after 1.5 years break.
   
 
 ### Skills
